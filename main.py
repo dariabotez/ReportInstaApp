@@ -3,7 +3,7 @@ from instagram_private_api import (
 )
 
 # Defining Insta credentials
-IG_USERNAME = 'micca_lorenn'
+IG_USERNAME = 'mica'
 IG_PASSWORD = ''
 
 # Authenticate Insta account
